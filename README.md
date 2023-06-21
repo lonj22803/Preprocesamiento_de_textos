@@ -1,2 +1,2 @@
 # Preprocesamiento_de_textos
-Analisi del Pricipito, con preprocesamiento de textos.
+Analisis del Pricipito, con preprocesamiento de textos.
